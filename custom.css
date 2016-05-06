@@ -1,3 +1,4 @@
+
 h3{
  font-family: cursive;
  color:black;
@@ -12,5 +13,9 @@ h3{
 h2{
 color:white;
 background-color:black;
+}
+.navbar
+{
+  background-color: gray;
 }
 
