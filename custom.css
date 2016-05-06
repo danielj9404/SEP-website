@@ -4,6 +4,13 @@ h3{
 }
 
 .jumbotron{
-    background-color:black;
-    color:;
+    color:white;
+    text-align:center;
+      background-color: lightblue;
+      
 }
+h2{
+color:white;
+background-color:black;
+}
+
