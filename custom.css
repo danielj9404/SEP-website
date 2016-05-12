@@ -1,6 +1,6 @@
 
 h3{
- font-family: cursive;
+ font-family: "Times New Roman",times;
  color:black;
 }
 
@@ -8,6 +8,7 @@ h3{
     color:white;
     text-align:center;
       background-color: lightblue;
+      background-image:url()
       
 }
 h2{
@@ -18,4 +19,4 @@ background-color:black;
     background-color:gray;
 }
 
-
+#carousel
