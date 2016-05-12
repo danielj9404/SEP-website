@@ -1,6 +1,6 @@
 
 h3{
- font-family: cursive;
+ font-family: "Times New Roman",times;
  color:black;
 }
 
@@ -8,14 +8,15 @@ h3{
     color:white;
     text-align:center;
       background-color: lightblue;
+      background-image:url()
       
 }
 h2{
 color:white;
 background-color:black;
 }
-.navbar
-{
-  background-color: gray;
+.container-fluid{
+    background-color:gray;
 }
 
+#carousel
