@@ -19,4 +19,9 @@ background-color:black;
     background-color:gray;
 }
 
-#carousel
+li{
+display:inline;
+}
+ul{
+    overflow:hidden;
+}
