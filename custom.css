@@ -25,6 +25,16 @@ display:inline;
 ul{
     overflow:hidden;
 }
-.navbar{
-    background-color:;
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #00bfff;
+    background-color: #99ccff;
+}
+
+h4{
+   font-style: : "Times New Roman";
+   background-color: white;
+   color:black;
+   font-size:
 }
