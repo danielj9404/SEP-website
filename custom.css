@@ -22,9 +22,7 @@ background-color:black;
 li{
 display:inline;
 }
-ul{
-    overflow:hidden;
-}
+
 
 #resources{
     background-color:
@@ -35,10 +33,9 @@ ul{
 }
 
 #opportunities{
-    background-color: 
+    background-color:;
 }
 
 #info{
 background-color:red;
-text
 }
