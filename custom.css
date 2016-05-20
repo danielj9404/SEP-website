@@ -11,8 +11,8 @@ h3{
       
 }
 h2{
-color:white;
-background-color:black;
+color:black;
+background-color:white;
 }
 .container-fluid{
     background-color:gray;
@@ -21,8 +21,14 @@ background-color:black;
 li{
 display:inline;
 }
-ul{
-    overflow:hidden;
+
+
+#resources{
+    background-color:
+}
+
+#grades{
+    background-color:green ;
 }
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
@@ -31,9 +37,13 @@ ul{
     background-color: #99ccff;
 }
 
-h4{
+h4, {
    font-style: : "Times New Roman";
    background-color: white;
    color:black;
    font-size:
+}
+
+#info{
+background-color:red;
 }
